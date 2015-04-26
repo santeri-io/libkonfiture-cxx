@@ -1,4 +1,4 @@
-konfiture
+konfiture-cxx
 ======
 
 konfiture is configuration markup language. it looks like XML but much easier to write and read.
