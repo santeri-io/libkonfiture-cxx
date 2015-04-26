@@ -79,7 +79,7 @@ or if you are a Mac user
 $ brew install bison
 $ brew install flex
 $ PATH="/usr/local/Cellar/flex/2.5.39/bin:$PATH"
-$ PATH="/usr/local//Cellar/bison/3.0.4/bin:$PATH"
+$ PATH="/usr/local/Cellar/bison/3.0.4/bin:$PATH"
 $ cmake CMakeLists.txt
 $ make
 ```
